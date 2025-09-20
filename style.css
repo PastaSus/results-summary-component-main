@@ -358,7 +358,7 @@ textarea:not([rows]) {
   cursor: pointer;
   border-radius: 100px;
   border: none;
-  transition: all 0.3s ease;
+
   padding: var(--spacing-16) 0;
   color: var(--White);
   background-color: var(--Dark-gray-blue);
